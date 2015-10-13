@@ -18,7 +18,7 @@ let g:colors_name = "buddy_modified"
 "hi CTagsGlobalConstant -- no settings --
 "hi ErrorMsg -- no settings --
 "hi Ignore -- no settings --
-hi Normal guifg=#ffffff guibg=#202020 guisp=#202020 gui=NONE ctermfg=15 ctermbg=234 cterm=NONE
+hi Normal guifg=#d9d9d9 guibg=#202020 guisp=#202020 gui=NONE ctermfg=253 ctermbg=234 cterm=NONE
 "hi CTagsImport -- no settings --
 "hi Search -- no settings --
 "hi CTagsGlobalVariable -- no settings --
@@ -69,7 +69,7 @@ hi StatusLine guifg=#fffcf0 guibg=#444444 guisp=#444444 gui=italic ctermfg=230 c
 hi Label guifg=#f3cf64 guibg=NONE guisp=NONE gui=NONE ctermfg=221 ctermbg=NONE cterm=NONE
 hi PMenuSel guifg=#1a1a1a guibg=#e6cd83 guisp=#e6cd83 gui=NONE ctermfg=234 ctermbg=180 cterm=NONE
 hi Delimiter guifg=#f0ffe2 guibg=NONE guisp=NONE gui=NONE ctermfg=194 ctermbg=NONE cterm=NONE
-hi Statement guifg=#ffd500 guibg=NONE guisp=NONE gui=bold ctermfg=220 ctermbg=NONE cterm=bold
+hi Statement guifg=#ffdd00 guibg=NONE guisp=NONE gui=NONE ctermfg=220 ctermbg=NONE cterm=NONE
 hi Comment guifg=#b3b0a3 guibg=NONE guisp=NONE gui=italic ctermfg=144 ctermbg=NONE cterm=NONE
 hi Character guifg=#e66450 guibg=NONE guisp=NONE gui=NONE ctermfg=167 ctermbg=NONE cterm=NONE
 hi Number guifg=#e66450 guibg=NONE guisp=NONE gui=NONE ctermfg=167 ctermbg=NONE cterm=NONE
@@ -79,8 +79,8 @@ hi CursorLine guifg=NONE guibg=#2d2d2d guisp=#2d2d2d gui=NONE ctermfg=NONE cterm
 hi DiffDelete guifg=NONE guibg=#8a3636 guisp=#8a3636 gui=NONE ctermfg=NONE ctermbg=95 cterm=NONE
 hi CursorColumn guifg=NONE guibg=#2d2d2d guisp=#2d2d2d gui=NONE ctermfg=NONE ctermbg=236 cterm=NONE
 hi Define guifg=#c25643 guibg=NONE guisp=NONE gui=NONE ctermfg=167 ctermbg=NONE cterm=NONE
-hi Function guifg=#f0911d guibg=NONE guisp=NONE gui=NONE ctermfg=208 ctermbg=NONE cterm=NONE
-hi PreProc guifg=#c25643 guibg=NONE guisp=NONE gui=NONE ctermfg=167 ctermbg=NONE cterm=NONE
+hi Function guifg=#f0811f guibg=NONE guisp=NONE gui=NONE ctermfg=208 ctermbg=NONE cterm=NONE
+hi PreProc guifg=#cc442f guibg=NONE guisp=NONE gui=NONE ctermfg=167 ctermbg=NONE cterm=NONE
 hi Visual guifg=#fffcf0 guibg=#444444 guisp=#444444 gui=NONE ctermfg=230 ctermbg=238 cterm=NONE
 hi VertSplit guifg=#5e5e5e guibg=#444444 guisp=#444444 gui=NONE ctermfg=59 ctermbg=238 cterm=NONE
 hi Exception guifg=#fff200 guibg=NONE guisp=NONE gui=NONE ctermfg=11 ctermbg=NONE cterm=NONE
